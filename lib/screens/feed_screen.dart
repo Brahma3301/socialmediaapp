@@ -32,12 +32,6 @@ class _FeedScreenState extends State<FeedScreen> {
         backgroundColor: Colors.grey[900],
         centerTitle: false,
         title: const Text('Social Media'),
-        actions: [
-          IconButton(
-            onPressed: () {},
-            icon: const Icon(Icons.messenger_outline),
-          ),
-        ],
       ),
       body: StreamBuilder<List<String>>(
         stream: followingUidsStream,
