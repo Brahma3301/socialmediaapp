@@ -31,7 +31,7 @@ class _FeedScreenState extends State<FeedScreen> {
       appBar: AppBar(
         backgroundColor: Colors.grey[900],
         centerTitle: false,
-        title: const Text('Pablogram'),
+        title: const Text('Social Media'),
         actions: [
           IconButton(
             onPressed: () {},
@@ -58,7 +58,10 @@ class _FeedScreenState extends State<FeedScreen> {
 
           if (followingUids.isEmpty) {
             return const Center(
-              child: Text('No posts available.'),
+              child: Text(
+                'No posts available.',
+                style: TextStyle(color: Colors.white),
+              ),
             );
           }
 
