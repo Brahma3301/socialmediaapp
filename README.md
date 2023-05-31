@@ -13,20 +13,27 @@ Features
     Sign Out
 
 ## Login Screen
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/36fb4f05-db17-48b8-99f2-abb75cecf0fd)
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/b6fe0a2b-ed3d-40d4-a909-0ca79d937315)
+![Screenshot 2023-05-31 080728](https://github.com/Brahma3301/socialmediaapp/assets/90648697/bdee70a9-8fc0-445d-8de3-370b443d9bb4)
+![Screenshot 2023-05-31 080750](https://github.com/Brahma3301/socialmediaapp/assets/90648697/6733b6a5-24e1-4ddb-8e12-0474ab6b7bbc)
+
 
 
 ## Home Screen
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/476102f9-5fcc-4b6a-ac73-5ac307b66f82)
-##upload section
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/2fe42d17-56d4-4e82-8c54-2224d49eb83c)
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/c49384e8-1864-4064-bcac-b3f49f9b563d)
+![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/778a2d33-5a94-4882-a031-0d503ae3e48b)
+
+
+## Upload Section
+![Screenshot 2023-05-31 081825](https://github.com/Brahma3301/socialmediaapp/assets/90648697/dba6ef39-14c4-4728-95f8-8ac681f81c1b)
+![Screenshot 2023-05-31 081851](https://github.com/Brahma3301/socialmediaapp/assets/90648697/10461076-f79a-40ec-b38c-1cc4f7782ecb)
+
+
 
 ## profile section
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/008b573f-c7ea-417b-a564-64a903e92fbf)
+![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/f7e9a092-2fbd-4673-9ffb-f402379d11ea)
+
 
 ## search screen
-![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/e63ac00b-5bb5-486e-8017-5096dce0fa7e)
+![image](https://github.com/Brahma3301/socialmediaapp/assets/90648697/6fdfff31-b247-467f-ac09-ae4cde7cc2f3)
+
 
 
